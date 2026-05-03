@@ -3,7 +3,7 @@ from huggingface_hub import InferenceClient
 
 # 1. We define the token as a string (with quotes)
 # Based on Screenshot 2026-05-03 at 07.02.33.jpg, your Sovereign_Full token starts with hf_...
-HF_TOKEN = "hf_...FMlQ" 
+HF_TOKEN = "hf_...tDZq" 
 MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct"
 
 # 2. Pass the variable HF_TOKEN here, not the raw text
